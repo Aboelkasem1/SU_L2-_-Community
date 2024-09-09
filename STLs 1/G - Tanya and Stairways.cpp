@@ -1,3 +1,7 @@
+////////////////
+// solution 1 //
+////////////////
+
 // #include <bits/stdc++.h>
 // using namespace std;
 //
@@ -54,7 +58,10 @@
 //
 // }
 //
-// //2
+
+////////////////
+// solution 2 //
+////////////////
 
 #include <bits/stdc++.h>
 using namespace std;
